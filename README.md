@@ -1,4 +1,4 @@
-# flutter_application_signal
+# flutter_signal
 
 A new Flutter project.
 
